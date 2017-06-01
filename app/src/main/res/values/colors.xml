@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccentDark">#b66f65</color>
+
+    <color name="white">#ffffff</color>
+    <color name="darkGray">#a9a9a9</color>
+    <color name="textGray">#a1a1a1</color>
+
+    <color name="dimGray">#696969</color>
+    <color name="black">#000000</color>
+    <color name="lightGray">#e6e6e6</color>
+    <color name="alphaWhite">#50ffffff</color>
+    <color name="alphaWhite100">#64ffffff</color>
+
+
+    <color name="transparent">#00000000</color>
+    <color name="gray">#666666</color>
+
+    <color name="blue">#2196F3</color>
+    <color name="dark_blue">#1976d2</color>
+    <color name="accent_blue">#448AFF</color>
+
+    <color name="red">#FF0000</color> <!--红色 -->
+    <color name="orange">#FFA500</color> <!--橙色 -->
+    <color name="lightgoldenrodyellow">#FAFAD2</color> <!--亮金黄色 -->
+    <color name="purple">#800080</color> <!--紫色 -->
+    <color name="yellow">#FFFF00</color>
+
+    <color name="lightgreen">#90EE90</color><!--亮绿色 -->
+    <color name="alphaBlack">#7e0d0d0d</color>
+    <color name="alphaGray">#7e616161</color>
+    <color name="alphacolorAccent">#9ef37363</color>
+
+
+    <color name="cropBackground">#000000</color>
+    <color name="alphaAccent100">#64f37363</color>
+
+
+    <color name="btn_bg">#e9e9e9</color>
+</resources>
